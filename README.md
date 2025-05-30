@@ -1,3 +1,3 @@
 # apna-collegedemo
 <br>
-console.log("Namaste dunia")
+console.log("hey")
